@@ -1,0 +1,6 @@
+# To add a new redirect, use this format to append: [source] [destination] [code?]
+# Example redirect: /home301 / 301
+# For more informations, please goto: https://developers.cloudflare.com/pages/configuration/redirects
+# WARNING: This repository is a PUBLIC REPOSITORY! Please do not add your private things to here (e.g. password, credit card)
+
+/swarm https://discord.gg/UY6tdAKwVe 301
